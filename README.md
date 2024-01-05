@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Your Full Name]
-[Your Address]
-[Your Phone Number]
-[Your Email Address]
-[LinkedIn Profile (Optional)]
+Fullname: Leonardo Fagundez
+[https://www.linkedin.com/in/fagundezleonardo]
+[mailto: fagundezleonardo@gmail.com]
 
 ---
 
