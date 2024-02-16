@@ -23,7 +23,7 @@ And drop me a line at fagundezleonardo@gmail.com 📫
 
 ## Summary
 
-Results-driven Senior Software Engineer with 15 years of experience in full-stack development, specializing in front-end technologies and UI/UX design. Proven expertise in JavaScript and TypeScript, utilizing Vue, React, Node.js, and frameworks like Express.js and Nest.js. Demonstrated success in the DeFi ecosystem, blockchain, crypto, and web3 technologies. Adept at collaborating with cross-functional teams to deliver high-quality solutions.
+Results-driven Senior Software Engineer with 15 years of experience in full-stack development, specializing in front-end technologies and UI/UX design. Proven expertise in JavaScript and TypeScript, using Vue, React, Node.js, and frameworks like Express.js and Nest.js. Demonstrated success in the DeFi ecosystem, blockchain, crypto, and web3 technologies. Adept at collaborating with cross-functional teams to deliver high-quality solutions.
 
 ---
 
